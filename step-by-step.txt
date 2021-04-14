@@ -1,0 +1,17 @@
+// 1. Deletar o repositório do lab hello-ironhack do seu perfil do github (o seu fork) caso você tenha feito fork; Se você
+// não fez o fork, não precisa fazer
+
+// 2. Rodar o comando a seguir para criar um novo projeto do React (escolha uma pasta onde você costuma guardar seus projetos,
+// pois este comando cria uma nova pasta dentro da pasta que ele é executado
+
+// $ npx create-react-app lab-hello-ironhack
+
+// 3. Faça o lab. Você baixar as imagens necessárias diretamente do 
+// repositório da Ironhack: https://github.com/ironhack-labs/lab-hello-ironhack
+// As imagens estao na pasta public/images (acesse o arquivo da imagem para fazer o download)
+
+// 4. Com o lab pronto, crie um novo repositório no seu perfil do Github com o nome lab-hello-ironhack. Ao criar o novo
+// repositório, o próprio Github irá disponibilizar o comando para adicionar no seu projeto local o link para o repositório:
+// git remote add origin url_do_seu_repositório
+
+// 5. Agora é só fazer o add, o commit, o push e entregar o lab.
